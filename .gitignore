@@ -1,0 +1,9 @@
+﻿*.gguf
+*.exe
+llamafile*
+build/
+dist/
+Ai_cache/
+models/
+__pycache__/
+venv/

@@ -1,0 +1,8 @@
+your_project_folder/
+│
+├── ai_assistant.py      (এই স্ক্রিপ্ট)
+├── ai_cache/            (অটোমেটিক তৈরি হবে)
+│   ├── models/          (ডাউনলোড করা মডেল)
+│   │   └── *.gguf
+│   └── cache_index.json (ক্যাশে ট্র্যাকার)
+└── system_report_*.json (সিস্টেম রিপোর্ট)
